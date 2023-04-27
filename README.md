@@ -1,44 +1,44 @@
-    # Eye-Tracking Effect
+# Eye-Tracking Effect
 
-    Simple mouse-tracking effect that moves two balls inside their respective eye-shaped containers following the cursor.
+Simple mouse-tracking effect that moves two balls inside their respective eye-shaped containers following the cursor.
 
-    ## Description
+## Description
 
-    A project that demonstrates an eye-tracking effect using HTML, CSS, and JavaScript. The project contains two eye-shaped containers with balls inside them. When the user moves the mouse cursor, the balls follow the cursor, creating an interesting eye-tracking effect.
+A project that demonstrates an eye-tracking effect using HTML, CSS, and JavaScript. The project contains two eye-shaped containers with balls inside them. When the user moves the mouse cursor, the balls follow the cursor, creating an interesting eye-tracking effect.
 
-    ## Getting Started
+## Getting Started
 
-    ### Dependencies
+### Dependencies
 
-    * A modern web browser (e.g., Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari)
-    * No additional libraries or frameworks are required
+* A modern web browser (e.g., Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari)
+* No additional libraries or frameworks are required
 
-    ### Installing
+### Installing
 
-    * Clone the repository or download the source files
-    ```bash
-    git clone https://github.com/ago19d/eye-tracking-effect.git
-    ```
-    * No modifications needed to files/folders
+* Clone the repository or download the source files
+```bash
+git clone https://github.com/ago19d/eye-tracking-effect.git
+```
+* No modifications needed to files/folders
 
-    ### Executing program
+### Executing program
 
-    * Open `index.html` in your browser
+* Open `index.html` in your browser
 
-    ## Help
+## Help
 
-    If you encounter any issues or need assistance, please create an issue on the project's GitHub repository.
+If you encounter any issues or need assistance, please create an issue on the project's GitHub repository.
 
-    ## Authors
+## Authors
 
-    Alejandro Garcia de Paredes    
-    GitHub: [@agp19d](https://github.com/agp19d)
+Alejandro Garcia de Paredes    
+GitHub: [@agp19d](https://github.com/agp19d)
 
-    ## Version History
+## Version History
 
-    * 1.0.0
-        * Initial Release
+* 1.0.0
+* Initial Release
 
-    ## License
+## License
 
-    This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
