@@ -1,3 +1,8 @@
+/* This is a JavaScript file named "eyes.js". 
+It contains code for a simple mouse-tracking effect that moves two balls 
+in the direction of the cursor. 
+*/
+
 const balls = document.getElementsByClassName('ball');
 document.onmousemove = (event) => {
   const x = (event.clientX * 100) / window.innerWidth + '%';
