@@ -1,4 +1,3 @@
-    ```
     # Eye-Tracking Effect
 
     Simple mouse-tracking effect that moves two balls inside their respective eye-shaped containers following the cursor.
@@ -43,4 +42,3 @@
     ## License
 
     This project is licensed under the MIT License - see the LICENSE.md file for details
-    ```
